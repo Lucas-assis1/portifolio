@@ -5,7 +5,7 @@ Repositório institucional com portfólio e projetos desenvolvidos no curso de D
 ## 🌐 Portfólio online
 
 Publicado via GitHub Pages em:
-**https://fatec-jacarei-dsm-portfolio.github.io/ra2581392323035/**
+**https://lucas-assis1.github.io/portifolio/**
 
 ## 📁 Estrutura do repositório
 
